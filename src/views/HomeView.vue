@@ -2,8 +2,8 @@
 import ImagensComponentes from '@/components/ImagensComponentes.vue';
 import TabelaComponentes from '@/components/TabelaComponentes.vue';
 import TextoComponentes from '@/components/textoComponentes.vue';
-import VideoComponentes from '@/components/VideoComponentes.vue';
 import FooterComponentes from '@/components/FooterComponentes.vue';
+import VideosDiversos from '@/components/VideosDiversos.vue';
 
 </script>
 
@@ -13,7 +13,7 @@ import FooterComponentes from '@/components/FooterComponentes.vue';
     <br><br><br>
     <ImagensComponentes/>
     <br><br><br><br>
-    <VideoComponentes/>
+    <VideosDiversos/>
     <br><br><br><br><br><br><br>
     <TabelaComponentes/>
     <br><br><br><br><br><br><br>
