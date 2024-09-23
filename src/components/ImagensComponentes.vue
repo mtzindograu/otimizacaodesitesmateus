@@ -15,22 +15,22 @@
     </div>
     <div style="display: flex;">
     <div style="width: 30%;">
-        <img src="/public/imagem/imagemgrande1.jpg" width="100%" height="100%" loading="lazy">
+        <img src="/public/imagem/imagemgrande1w.webp" width="100%" height="100%" loading="lazy">
     </div>
     <div style="width: 30%;">
-        <img src="/public/imagem/imagemgrande2.jpg" width="100%" height="100%" loading="lazy">
+        <img src="/public/imagem/imagemgrande2w.webp" width="100%" height="100%" loading="lazy">
     </div>
   </div>
   <div style="display: flex;">
     <div style="width: 30%;">
-        <img src="/public/imagem/imagemgrande3.jpg" width="100%" height="100%" loading="lazy">
+        <img src="/public/imagem/imagemgrande3w.webp" width="100%" height="100%" loading="lazy">
     </div>
     <div style="width: 30%;">
-        <img src="/public/imagem/imagemgrande4.jpg" width="100%" height="100%" loading="lazy">
+        <img src="/public/imagem/imagemgrande4w.webp" width="100%" height="100%" loading="lazy">
     </div>
   </div>
     <div style="width: 60%;">
-        <img src="/public/imagem/imagemgrande5.jpg" width="100%" height="100%" loading="lazy">
+        <img src="/public/imagem/imagemgrande5w.webp" width="100%" height="100%" loading="lazy">
     </div>
       </div>    
     
